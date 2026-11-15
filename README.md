@@ -1,4 +1,4 @@
-Integrantes – Grupo 9
+# Integrantes - Grupo9
 
 - Víctor Ernesto Gutiérrez Birot
 - Renzo Enrique Lara Condori
