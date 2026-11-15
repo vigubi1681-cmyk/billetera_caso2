@@ -1,3 +1,12 @@
+Integrantes – Grupo 9
+
+- Víctor Ernesto Gutiérrez Birot
+- Renzo Enrique Lara Condori
+- Karen Narciso Checasaca
+- Ana Gabriela Silva Yauyo
+
+
+
 # Caso 2: Billetera Digital (Angular)
 
 Una billetera digital sencilla hecha con Angular para la evaluación T1 del curso Soluciones Web y Aplicaciones Distribuidas. Permite recargar saldo, registrar gastos y ver el historial de movimientos. Todo vive en memoria: si recargas la página, la billetera vuelve a empezar con S/ 250.00.
